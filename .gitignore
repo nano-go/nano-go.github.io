@@ -1,1 +1,5 @@
 built
+node_modules
+sources
+config.json
+db.json
