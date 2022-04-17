@@ -5,6 +5,6 @@ cover: https://images.unsplash.com/photo-1639506575273-27f22957b54f?ixlib=rb-1.2
 
 -------------------------------------
 
-## Hello World
+## Hello Hello
 
-Welcome to the [Nano1's Blog](/) site!!!
+Welcome to [Nano1's Blog](/)!
